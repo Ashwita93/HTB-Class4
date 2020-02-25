@@ -1,5 +1,5 @@
 # Read Easy with Buttons (HTB-Assignment4)
-Hacking the Browser - Assignment 3 (Playing with chrome extensions)
+Hacking the Browser - Assignment 4 (Adding buttons and a Popup)
 
 Read Easy 
 Assignment for week 3 class. I have created this github repo to keep track of the development of this chrome extension.
