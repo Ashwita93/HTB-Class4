@@ -1,0 +1,24 @@
+.pop-up-body{
+    width: 500px;
+    height: auto;
+    padding: 10px 20px;
+}
+.header-style{
+    font-size: 25px; 
+    align-content: left;
+}
+ul{
+    padding:0px;
+    margin:0px;
+}
+ul > li {
+    display:inline-block;
+}
+li > button{
+    padding:5px 10px;
+    border-radius:10px;
+}
+.theme-list{
+    list-style-type: none;
+    border-radius:10%;
+}
